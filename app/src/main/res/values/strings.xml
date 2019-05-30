@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator Bangun Datar</string>
+    <string name="hitung">HITUNG</string>
+    <string name="admin">Admin\n
+        Nama    :Gesang Prayoga\n
+        E-mail  : gesangprayoga14@gmail.com\n
+        Asal    : Jawa Timur\n
+        Negara  : Indonesia
+
+
+
+    </string>
+</resources>

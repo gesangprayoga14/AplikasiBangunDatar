@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_move_activity1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Segitiga" />
+        <Button
+            android:id="@+id/btn_move_activity2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30dp"
+            android:text="persegi"/>
+        <Button
+            android:id="@+id/btn_move_activity3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30dp"
+            android:text="Persegi Panjang"/>
+        <Button
+            android:id="@+id/btn_move_activity4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Trapesium"/>
+        <Button
+            android:id="@+id/btn_move_activity5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Belah Ketupat"/>
+        <Button
+            android:id="@+id/btn_move_activity6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Jajar Genjang"/>
+        <Button
+            android:id="@+id/btn_move_activity7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Layang-Layang"/>
+        <Button
+            android:id="@+id/btn_move_activity8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Lingkaran"/>
+
+        <Button
+            android:id="@+id/btn_move_activity9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Segitiga Siku-Siku"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
